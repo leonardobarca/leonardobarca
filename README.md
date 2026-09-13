@@ -1,6 +1,7 @@
 # Olá! Meu nome é Leonardo Barca
 
 🚀 **DEV Fullstack em formação | Fã de Python e Java**
+
 🇧🇷 Brazil
 
 Estudo ADS na Fatec Ferraz de Vasconcelos
